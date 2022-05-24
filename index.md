@@ -5,9 +5,9 @@
 ### Personal informations
 
 ---
-+ name: Anahita
-+ last name : Taheri
-+ Date of birth : 1979/November/29
++ name: Neda
++ last name : Parsi
++ Date of birth : 1989/November/29
 + I am a trader and IT engineering student
 + location : Tehran , I.R.Iran
 
