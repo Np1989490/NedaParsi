@@ -7,24 +7,26 @@
 ---
 + name: Neda
 + last name : Parsi
-+ Date of birth : 1989/November/29
-+ I am a trader and IT engineering student
++ Date of birth : 1989/January/25
++ I am a Database Expert and Oracle Developer
 + location : Tehran , I.R.Iran
 
 
 ### Skill Highlights
 
 ---
-+ trade on Tehran Stock Exchange and Forex
-+ translating
++ Oracle Developer  
++ Datahub Project Manager in Payeshgarahn MT
 
 
 ### Education
 
 ---
-+ Diploma : Aeen Tarbiat high school
-+ Bachelor of science : IT Engineering
-_ payam Noor University of North 
++ Diploma : Computer
++ Bachelor's degrees : Software engineer
+_ Shahroud University 
++ Master's degrees: Software engineer
+-payam Noor University of North
 
 ### language
 
@@ -35,15 +37,15 @@ _ payam Noor University of North
 ### Favorites
 
 ---
-+ Trade
-+ Studing historical books
++ programing
++ Study historiy
 + travel 
-+ playing volleyball
++ yoga
 
 ### working Experience
 
 ---
-+ I am working in Caltural,Turism & Handicrafts Minister.
++ I am working in mandegar CRM company  & payesgharan Software company .
 
 
 
