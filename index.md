@@ -16,7 +16,7 @@
 
 ---
 + Oracle Developer  
-+ Datahub Project Manager in Payeshgarahn MT
++ Datahub Project Manager in Payeshgaran MT
 
 
 ### Education
@@ -26,13 +26,14 @@
 + Bachelor's degrees : Software engineer
 _ Shahroud University 
 + Master's degrees: Software engineer
--payam Noor University of North
+_ payam Noor University of North
 
 ### language
 
 ---
 + Persian
 + English
++ Germany
 
 ### Favorites
 
