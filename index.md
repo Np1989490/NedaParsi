@@ -16,8 +16,8 @@
 
 ---
 + Oracle Developer  
-+ Datahub Project Manager in Payeshgaran MT
-
++ JavaDeveloper
++ DataSience
 
 ### Education
 
