@@ -26,7 +26,7 @@
 + Bachelor's degrees : Software engineer
 _ Shahroud University 
 + Master's degrees: Software engineer
-_ payam Noor University of North
+_ Payam Noor University of rey
 
 ### language
 
@@ -46,7 +46,8 @@ _ payam Noor University of North
 ### working Experience
 
 ---
-+ I am working in mandegar CRM company  & payesgharan Software company .
++ Two years of hands-on experience in CRM company
++ I am working as Oracle Developer in  payesgharan Software company
 
 
 
