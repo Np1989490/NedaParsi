@@ -47,7 +47,7 @@ _ Payam Noor University of rey
 
 ---
 + Two years of hands-on experience in CRM company
-+ I am working as Oracle Developer in  payesgharan Software company
++ I am working From 2020 until now as Oracle Developer in  payesgharan Software company
 
 
 
